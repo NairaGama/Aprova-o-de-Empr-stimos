@@ -1,7 +1,6 @@
-# Aprovação de Empréstimos
+### Aprovação de Empréstimos
 
-##### Autoria: 
-Naira Gama
+#### Autoria: Naira Gama
   
 ### Objetivo: 
 Realizar uma análise exploratória dos dados, identificando os fatores importantes para aprovação de empréstimos.
